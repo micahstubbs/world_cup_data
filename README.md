@@ -5,10 +5,10 @@ a collection of World Cup datasets compiled for the Houston Data Visualization M
 
 #### Sources for Datasets in this Repository
 
-world_cup_curley.csv
-world_cup2010_curley.csv
-[FIFA World Cup Dataset scaped from fifa.com by Brenna Curley at Iowa State](http://www.public.iastate.edu/~curleyb/research.html)
-[notes - Creating a World Cup Data Set .pdf](http://www.public.iastate.edu/~curleyb/Stat585_Project_FinalPDF.pdf)
+world_cup_curley.csv  
+world_cup2010_curley.csv  
+[FIFA World Cup Dataset scaped from fifa.com by Brenna Curley at Iowa State](http://www.public.iastate.edu/~curleyb/research.html)  
+[notes - Creating a World Cup Data Set .pdf](http://www.public.iastate.edu/~curleyb/Stat585_Project_FinalPDF.pdf)  
 
 
 
