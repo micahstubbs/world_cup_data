@@ -10,6 +10,9 @@ world_cup2010_curley.csv
 [FIFA World Cup Dataset scaped from fifa.com by Brenna Curley at Iowa State](http://www.public.iastate.edu/~curleyb/research.html)  
 [notes - Creating a World Cup Data Set .pdf](http://www.public.iastate.edu/~curleyb/Stat585_Project_FinalPDF.pdf)  
 
+folder fisadev__world_cup_learning  
+https://github.com/fisadev/world_cup_learning  
+
 #### Other Datasets on the web
 
 
