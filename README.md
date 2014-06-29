@@ -14,7 +14,7 @@ folder fisadev__world_cup_learning
 https://github.com/fisadev/world_cup_learning  
 
 matches.csv  
-[the file on dropbox](https://dl.dropboxusercontent.com/u/7619809/matches.csv)
+[the file on dropbox](https://dl.dropboxusercontent.com/u/7619809/matches.csv)  
 [gist for the neo4j example, with the link to the file](https://gist.github.com/mneedham/6e24a3bb09766e62b0b1)  
 [Which Stadiums have hosted the most World Cup Matches?](http://www.neo4j.org/graphgist?6e24a3bb09766e62b0b1)  
 
